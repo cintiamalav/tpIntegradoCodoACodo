@@ -5,6 +5,7 @@
 .navBackground {
     background-color: #3E4342;
 }
+
 .container1 {
     background-image: linear-gradient(0deg, rgba(2,0,36,0.5998774509803921) 0%, rgba(5,5,5,0.5102415966386555) 100%), url(./images/ba1.jpg);
     background-repeat: no-repeat;
@@ -12,12 +13,14 @@
     background-size: cover;
     min-height: 700px;
 }
+
 .mainCopy {
     color: white;
     padding-top: 150px;
     text-align: right;
     
 }
+
 .myCardStyle {
     margin: 50px 0px;
 }
@@ -38,6 +41,7 @@
 .bgConf {
     background-color: #333a41;
     color: white;
+    padding-top: 25px;
 }
 
 .posOrators {
@@ -47,3 +51,30 @@
 .oratorsForm {
     background-color:#ffff00;
 }
+
+.contHeight {
+    height: 500px;
+}
+
+.oradorForm {
+    margin: 0px auto;
+}
+
+
+#orador .containerMaxWidth {
+    max-width: 800px;
+}
+
+form textarea {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    
+}
+
+form .buttonBackground {
+    color: white;
+    background-color: #A0B04E;
+}
+.footer {
+    background-image: linear-gradient(to right, #004d7a, #00838f);
+  }
