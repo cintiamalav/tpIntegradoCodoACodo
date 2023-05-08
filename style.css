@@ -1,3 +1,4 @@
+
 .logoScale {
     width: 125px;
 }
@@ -61,20 +62,24 @@
 }
 
 
-#orador .containerMaxWidth {
+.containerMaxWidth {
     max-width: 800px;
+    margin: 0px auto;
 }
 
-form textarea {
-    margin-top: 25px;
-    margin-bottom: 25px;
-    
-}
 
 form .buttonBackground {
     color: white;
     background-color: #A0B04E;
 }
-.footer {
-    background-image: linear-gradient(to right, #004d7a, #00838f);
-  }
+
+.footerProperties {
+    background: rgb(29, 58, 75);
+    margin-bottom: 0px;
+    margin-top: 5%;
+}
+
+
+.rowMargin {
+    margin: 15px 0px;
+}
